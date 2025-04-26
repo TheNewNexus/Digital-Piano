@@ -93,6 +93,4 @@ Robby R
 
 Afzal H
 
-## License
 
-[Specify the license under which this project is released]
