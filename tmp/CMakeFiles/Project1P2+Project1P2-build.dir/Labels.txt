@@ -1,0 +1,11 @@
+# Target labels
+ Project1P2+Project1P2
+# Source files and their labels
+C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/CMakeFiles/Project1P2+Project1P2-build
+C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/CMakeFiles/Project1P2+Project1P2-build.rule
+C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-build.rule
+C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-configure.rule
+C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-patch.rule
+C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-update.rule
+C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-download.rule
+C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-mkdir.rule

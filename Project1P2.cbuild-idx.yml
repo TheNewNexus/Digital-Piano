@@ -1,0 +1,10 @@
+build-idx:
+  generated-by: csolution version 2.5.0
+  csolution: Project1P2.csolution.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: Project1P2.cproject.yml
+  cbuilds:
+    - cbuild: Project1P2+Project1P2.cbuild.yml
+      project: Project1P2
+      configuration: +Project1P2

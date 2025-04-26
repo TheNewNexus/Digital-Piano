@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/CMakeFiles/Project1P2+Project1P2-configure"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/CMakeFiles/Project1P2+Project1P2-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-update.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-download.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Project1P2+Project1P2"
+		],
+		"name" : "Project1P2+Project1P2-configure"
+	}
+}

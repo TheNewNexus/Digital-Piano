@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/CMakeFiles/Project1P2+Project1P2"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/CMakeFiles/Project1P2+Project1P2.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/CMakeFiles/Project1P2+Project1P2-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-build.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-download.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-install.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-test.rule"
+		},
+		{
+			"file" : "C:/Users/Robby/Code/Keil_Projects/CECS 447/Project1/Piano-Project/tmp/Project1P2+Project1P2/src/Project1P2+Project1P2-stamp/Project1P2+Project1P2-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Project1P2+Project1P2"
+		],
+		"name" : "Project1P2+Project1P2"
+	}
+}
